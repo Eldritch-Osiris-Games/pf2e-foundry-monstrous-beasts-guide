@@ -2,6 +2,8 @@
   "id": "monstrous-beasts-guide",
   "title": "Monstrous Beasts: A Guide to Friend Them",
   "description": "Monstrous Beasts: A Guide to Friend Them for Pathfinder Second Edition brings a monstrous twist to Pathfinder 2e! With 100 pages of content, you can find a variety of premium content for any table! With the metamorph class, take on a physical distinction that allows you to turn into anything from a holy angel to a powerful dragon to a slimy ooze. Monstrous Beasts also expands upon a variety of existing Pathfinder content such as barbarian instincts, form spells, and new equipment. Dive deep into the ocean in a nautilus vehicle that you can customize and see what the deep blue seas have for you. With the monstrous adventure for level 4 adventurers, save a local community from a spider that phases in and out of existence. Find all of this and more in Monstrous Beasts: A Guide to Friend Them for Pathfinder 2e!",
+  "manifest": "https://raw.githubusercontent.com/Eldritch-Osiris-Games/pf2e-foundry-monstrous-beasts-guide/main/module.json",
+  "download": "https://github.com/Eldritch-Osiris-Games/pf2e-foundry-monstrous-beasts-guide/archive/refs/heads/main.zip",
   "authors": [
     {
       "name": "Eldritch Osiris Games"
