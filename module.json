@@ -1,0 +1,232 @@
+{
+  "id": "monstrous-beasts-guide",
+  "title": "Monstrous Beasts: A Guide to Friend Them",
+  "description": "Monstrous Beasts: A Guide to Friend Them for Pathfinder Second Edition brings a monstrous twist to Pathfinder 2e! With 100 pages of content, you can find a variety of premium content for any table! With the metamorph class, take on a physical distinction that allows you to turn into anything from a holy angel to a powerful dragon to a slimy ooze. Monstrous Beasts also expands upon a variety of existing Pathfinder content such as barbarian instincts, form spells, and new equipment. Dive deep into the ocean in a nautilus vehicle that you can customize and see what the deep blue seas have for you. With the monstrous adventure for level 4 adventurers, save a local community from a spider that phases in and out of existence. Find all of this and more in Monstrous Beasts: A Guide to Friend Them for Pathfinder 2e!",
+  "authors": [
+    {
+      "name": "Eldritch Osiris Games"
+    }
+  ],
+  "version": "1.0.0",
+  "packs": [
+    {
+      "label": "Creatures",
+      "name": "MBG-Creatures",
+      "path": "packs/mbg-creatures",
+      "system": "pf2e",
+      "type": "Actor"
+    },
+    {
+      "label": "Vehicles",
+      "name": "MBG-Vehicles",
+      "path": "packs/mbg-vehicles",
+      "system": "pf2e",
+      "type": "Actor"
+    },
+    {
+      "label": "Actions",
+      "name": "MBG-Actions",
+      "path": "packs/mbg-actions",
+      "system": "pf2e",
+      "type": "Item"
+    },
+    {
+      "label": "Ancestries",
+      "name": "MBG-Ancestries",
+      "path": "packs/mbg-ancestries",
+      "system": "pf2e",
+      "type": "Item"
+    },
+    {
+      "label": "Ancestry Features",
+      "name": "MBG-Ancestry-Features",
+      "path": "packs/mbg-ancestry-features",
+      "system": "pf2e",
+      "type": "Item"
+    },
+    {
+      "label": "Classes",
+      "name": "MBG-Classes",
+      "path": "packs/mbg-classes",
+      "system": "pf2e",
+      "type": "Item"
+    },
+    {
+      "label": "Class Features",
+      "name": "MBG-Class-Features",
+      "path": "packs/mbg-class-features",
+      "system": "pf2e",
+      "type": "Item"
+    },
+    {
+      "label": "Familiar Abilities",
+      "name": "MBG-Familiar-Abilities",
+      "path": "packs/mbg-familiar-abilities",
+      "system": "pf2e",
+      "type": "Item"
+    },
+    {
+      "label": "Feats",
+      "name": "MBG-Feats",
+      "path": "packs/mbg-feats",
+      "system": "pf2e",
+      "type": "Item"
+    },
+    {
+      "label": "Heritages",
+      "name": "MBG-Heritages",
+      "path": "packs/mbg-heritages",
+      "system": "pf2e",
+      "type": "Item"
+    },
+    {
+      "label": "Spells",
+      "name": "MBG-Spells",
+      "path": "packs/mbg-spells",
+      "system": "pf2e",
+      "type": "Item"
+    },
+    {
+      "label": "Equipment",
+      "name": "MBG-Equipment",
+      "path": "packs/mbg-equipment",
+      "system": "pf2e",
+      "type": "Item"
+    },
+    {
+      "label": "Bestiary Effects",
+      "name": "MBG-Bestiary-Effects",
+      "path": "packs/mbg-bestiary-effects",
+      "system": "pf2e",
+      "type": "Item"
+    },
+    {
+      "label": "Feat/Feature Effects",
+      "name": "MBG-Feat-Feature-Effects",
+      "path": "packs/mbg-feat-feature-effects",
+      "system": "pf2e",
+      "type": "Item"
+    },
+    {
+      "label": "Spell Effects",
+      "name": "MBG-Spell-Effects",
+      "path": "packs/mbg-spell-effects",
+      "system": "pf2e",
+      "type": "Item"
+    },
+    {
+      "label": "Journals",
+      "name": "MBG-Journals",
+      "path": "packs/mbg-journals",
+      "system": "pf2e",
+      "type": "JournalEntry"
+    }
+  ],
+  "packFolders": [
+    {
+      "name": "Monstrous Beasts a Guide to Friend Them",
+      "sorting": "m",
+      "folders": [
+        {
+          "name": "Monstrous Beasts Character Building",
+          "sorting": "a",
+          "color": "#222222",
+          "packs": [
+            "MBG-Actions",
+            "MBG-Ancestries",
+            "MBG-Ancestry-Features",
+            "MBG-Class-Features",
+            "MBG-Classes",
+            "MBG-Equipment",
+            "MBG-Familiar-Abilities",
+            "MBG-Feats",
+            "MBG-Heritages",
+            "MBG-Spells"
+          ]
+        },
+        {
+          "name": "Monstrous Beasts Effects",
+          "sorting": "a",
+          "color": "#222222",
+          "packs": [
+            "MBG-Bestiary-Effects",
+            "MBG-Feat-Feature-Effects",
+            "MBG-Spell-Effects"
+          ]
+        },
+        {
+          "name": "Monstrous Beasts Actors",
+          "sorting": "a",
+          "color": "#222222",
+          "packs": [
+            "MBG-Creatures",
+            "MBG-Vehicles"
+          ]
+        }
+      ],
+      "packs": [
+        "MBG-Journals"
+      ]
+    }
+  ],
+  "flags": {
+    "monstrous-beasts-guide": {
+      "pf2e-homebrew": {
+        "creatureTraits": {
+          "crabfolk": {
+            "label": "Crabfolk",
+            "description": "Related to the Crabfolk Ancestry."
+          }
+        },
+        "equipmentTraits": {
+          "crabfolk": {
+            "label": "Crabfolk",
+            "description": "Related to the Crabfolk Ancestry."
+          },
+          "emblem": {
+            "label": "Emblem",
+            "description": "Elevates a set of virtues determined by the culture in which it is made."
+          }
+        },
+        "featTraits": {
+          "crabfolk": {
+            "label": "Crabfolk",
+            "description": "Related to the Crabfolk Ancestry."
+          },
+          "metamorph": {
+            "label": "Metamorph",
+            "description": "Related to the Metamorph class."
+          },
+          "harry": {
+            "label": "Harry",
+            "description": "Feats with this trait modify the Harry action. You can only apply one harry feat at a time."
+          }
+        },
+        "weaponTraits": {
+          "jousting-d8": {
+            "label": "Jousting d8",
+            "description": "PF2E.TraitJousting"
+          }
+        },
+        "languages": {
+          "Brachien": "Brachien"
+        }
+      }
+    }
+  },
+  "relationships": {
+    "systems": [
+      {
+        "id": "pf2e",
+        "type": "system",
+        "compatibility": {
+          "minimum": "5.8"
+        }
+      }
+    ]
+  },
+  "compatibility": {
+    "minimum": "11.314",
+    "verified": "11.315"
+  }
+}
